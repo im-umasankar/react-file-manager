@@ -10,7 +10,7 @@
     "LICENSE"
   ],
   "publishConfig": {
-    "@winfiny:registry": "https://npm.pkg.github.com"
+    "@im-umasankar:registry": "https://npm.pkg.github.com"
   },
   "scripts": {
     "dev": "vite",
