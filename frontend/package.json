@@ -1,5 +1,5 @@
 {
-  "name": "@cubone/react-file-manager",
+  "name": "@winfiny/react-file-manager",
   "private": false,
   "version": "1.10.5",
   "type": "module",
@@ -10,7 +10,7 @@
     "LICENSE"
   ],
   "publishConfig": {
-    "access": "public"
+    "@winfiny:registry": "https://npm.pkg.github.com"
   },
   "scripts": {
     "dev": "vite",
